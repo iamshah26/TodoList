@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # miniproject
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# todolistVue
+>>>>>>> db349fd1323b70286978a9c949c6e66ff6189a26
